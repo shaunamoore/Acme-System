@@ -7,5 +7,10 @@ public class HelloWorld {
 		System.out.println("Shauna is working locally on her branch");
 
 	}
+	public static void heyNow() {
+		String Msg = "Hey Now!";
+		System.out.println(Msg);
+	}
+	
 
 }
